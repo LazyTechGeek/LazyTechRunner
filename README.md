@@ -19,6 +19,8 @@ The app is free. If it gets you moving and you'd like to say thanks, you can [bu
   <img src="docs/images/watch-home.png" alt="The watch app's home menu" width="200">
   &nbsp;&nbsp;
   <img src="docs/images/watch-run-map.png" alt="Following a route on the watch" width="200">
+  &nbsp;&nbsp;
+  <img src="docs/images/watch-run-controls.png" alt="The watch controls: pause, stop, day or night map, and change view" width="200">
 </p>
 
 ## What it does
