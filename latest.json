@@ -1,0 +1,8 @@
+{
+  "app": "lazy-tech-runner",
+  "versionCode": 80,
+  "versionName": "1.80",
+  "notes": "Friendlier split announcements: sentence openers (Well done, you've covered...)",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.80/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.80/LazyTechRunner-watch.apk"
+}
