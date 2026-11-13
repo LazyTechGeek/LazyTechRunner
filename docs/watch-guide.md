@@ -6,6 +6,8 @@ Once the watch has your routes and programmes, you can leave the phone at home.
 
 ## Home
 
+<img src="images/watch-home.png" alt="The watch app's home menu" width="200" align="right">
+
 The watch opens to four choices: **Run**, **Race**, **Reports** and **Settings**.
 
 ## Starting a run

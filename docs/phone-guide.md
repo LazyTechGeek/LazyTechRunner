@@ -4,12 +4,17 @@ The phone app does two jobs. It is where you plan routes and look at your report
 
 ## Home
 
-The home screen has a big **Run** button and four tiles: **Race**, **Routes**, **Heart rate** and **Reports**.
-The cog at the top opens **Settings**.
+<img src="images/phone-home.png" alt="The phone app's home screen" width="270" align="right">
+
+The home screen shows your last outing, a big **Start a run** button and four tiles: **Race**, **Routes**, **Heart rate** and **Reports**.
+The cog at the top opens **Settings**. The bar at the bottom shows whether your watch is connected, with a **Sync** button.
 
 ## Starting a run
 
-Tap **Run**, then choose what kind:
+Tap **Start a run**, then choose what kind:
+
+<img src="images/phone-run-menu.png" alt="Choosing a type of run" width="270">
+
 
 | Choice | What it does |
 |---|---|

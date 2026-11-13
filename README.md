@@ -8,6 +8,14 @@ training app. Think of it as a friendly nudge, in the spirit of Couch to 5K.
 
 The app is free. If it gets you moving and you'd like to say thanks, you can [buy me a coffee ☕](https://buymeacoffee.com/lazytechgeek).
 
+<p align="center">
+  <img src="docs/images/phone-home.png" alt="The phone app's home screen" width="250">
+  &nbsp;&nbsp;
+  <img src="docs/images/phone-run-menu.png" alt="Choosing a type of run on the phone" width="250">
+  &nbsp;&nbsp;
+  <img src="docs/images/watch-home.png" alt="The watch app's home menu" width="210">
+</p>
+
 ## What it does
 
 - **Just go.** Free run, a set distance, a set time, or a treadmill session counted in steps.
