@@ -6,6 +6,8 @@ Walk, jog or run: it talks you through it, shows you the way, and keeps a record
 It is a hobby project by [Lazy Tech Geek](https://www.youtube.com/@LazyTechGeek). It is not a professional
 training app. Think of it as a friendly nudge, in the spirit of Couch to 5K.
 
+The app is free. If it gets you moving and you'd like to say thanks, you can [buy me a coffee ☕](https://buymeacoffee.com/lazytechgeek).
+
 ## What it does
 
 - **Just go.** Free run, a set distance, a set time, or a treadmill session counted in steps.
@@ -54,6 +56,13 @@ and check this page for updates.
 Free for personal use, with no warranty. Please don't re-upload it or sell it. The full wording is in [LICENSE](LICENSE).
 
 This app is not medical or training advice. If you're unsure whether exercise is safe for you, check with a doctor first.
+
+## Support the developer
+
+Lazy Tech Runner is free and always will be. It takes a lot of evenings to build, though, so if it's been useful:
+
+- ☕ [Buy me a coffee](https://buymeacoffee.com/lazytechgeek)
+- ▶️ Subscribe to [Lazy Tech Geek on YouTube](https://www.youtube.com/@LazyTechGeek)
 
 ## Credits
 
