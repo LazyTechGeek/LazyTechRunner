@@ -27,6 +27,8 @@ Tap **Start a run**, then choose what kind:
 
 You then see a **Ready** screen. It waits for a GPS fix, counts down, and says "Go".
 
+<img src="images/phone-run-map.png" alt="A run in progress on the phone" width="270" align="right">
+
 During a run the screen shows a live map with your time, distance and distance to go. Buttons on the map switch between flat and tilted views, and day and night colours. **Pause** and **Stop** are at the bottom.
 
 It's called a run, but walking is fine. Afterwards the app labels each outing as a walk, jog, run or run/walk from your speed.
@@ -58,6 +60,8 @@ Open a saved route for more: **Edit**, **Duplicate**, **Duplicate reversed** (th
 You can also turn any finished outing into a route: open it in Reports and tap **Save as route**. Routes made this way follow exactly where you went and are never snapped to roads.
 
 ## Reports
+
+<img src="images/phone-reports.png" alt="A weekly report" width="270" align="right">
 
 **Reports** shows your outings by **Week** or **Month**, with totals for time, distance, steps and calories.
 

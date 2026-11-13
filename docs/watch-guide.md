@@ -30,6 +30,8 @@ For sound, pair your earphones with the watch. The voice talks over music playin
 
 ## During a run
 
+<img src="images/watch-run-map.png" alt="Following a route on the watch" width="200" align="right">
+
 - **Tap the screen** to show the controls. They hide again after a few seconds.
   - **Pause** and **Stop** at the bottom.
   - 🌙 / ☀️ switches night and day map colours.
