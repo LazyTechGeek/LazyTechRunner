@@ -32,10 +32,12 @@ After that, the app updates itself.
 
 ## Download
 
-Get the newest version from the **[Releases page](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest)**.
+Tap a link to download the newest version straight away:
 
-- `LazyTechRunner-phone.apk` goes on your phone.
-- `LazyTechRunner-watch.apk` goes on your watch.
+- 📱 **[LazyTechRunner-phone.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-phone.apk)** goes on your phone.
+- ⌚ **[LazyTechRunner-watch.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-watch.apk)** goes on your watch.
+
+Older versions, and notes on what changed in each one, are on the [Releases page](https://github.com/LazyTechGeek/LazyTechRunner/releases).
 
 ## Guides
 

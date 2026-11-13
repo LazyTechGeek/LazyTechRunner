@@ -4,8 +4,8 @@ You do this once. After that the app updates itself.
 
 ## Part 1: the phone
 
-1. On your phone, open the [Releases page](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest).
-2. Tap `LazyTechRunner-phone.apk` to download it.
+1. On your phone, tap this link to download the app: **[LazyTechRunner-phone.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-phone.apk)**
+2. Wait for the download to finish.
 3. Open the downloaded file. Android will ask whether your browser may install apps. Tap **Settings**, switch on **Allow from this source**, then go back.
 4. Tap **Install**. If Play Protect asks, choose **Install anyway**. It asks because the app isn't from the Play Store.
 5. Open **Lazy Tech Runner** and allow the permissions it asks for: location, physical activity and notifications.
@@ -27,7 +27,7 @@ It looks long, but each step is small.
 ### Get the computer ready
 
 1. Download Google's free [platform-tools](https://developer.android.com/tools/releases/platform-tools) and unzip it.
-2. Download `LazyTechRunner-watch.apk` from the [Releases page](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest) into that same folder.
+2. Download **[LazyTechRunner-watch.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-watch.apk)** into that same folder.
 3. Open a terminal (Command Prompt on Windows) in that folder.
 
 ### Send the app
