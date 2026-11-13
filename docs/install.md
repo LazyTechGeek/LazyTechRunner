@@ -19,6 +19,8 @@ It looks long, but each step is small.
 
 ### Get the watch ready
 
+These steps are for a Samsung Galaxy Watch. On other Wear OS watches the menus have slightly different names: look for **About** and **Build number** in place of Software version.
+
 1. On the watch, open **Settings → About watch → Software information**.
 2. Tap **Software version** five times, until it says developer mode is on.
 3. Go back to **Settings → Developer options**.

@@ -24,7 +24,7 @@ The app is free. If it gets you moving and you'd like to say thanks, you can [bu
 | | |
 |---|---|
 | Phone | Android 8 or newer |
-| Watch (optional) | Wear OS 3 or newer. Built and tested on a Galaxy Watch 6 with a Samsung S23+ |
+| Watch (optional) | Wear OS 3 or newer. Built and tested on a Samsung Galaxy Watch 6 with a Samsung S23+. Other watches should work but are untested |
 | Cost | Free |
 
 It is not on the Play Store. You install it from the files on this page, which takes a few minutes the first time.

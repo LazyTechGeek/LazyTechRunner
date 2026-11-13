@@ -9,6 +9,9 @@ It's a hobby project. Installing from this page avoids store fees and paperwork.
 **Does it work on an iPhone or Apple Watch?**
 No. Android phones and Wear OS watches only.
 
+**Will it work on my watch?**
+It was built and tested on a Samsung Galaxy Watch 6. Any Wear OS 3 or newer watch should run it, but others are untested, so let me know how you get on. A bezel isn't needed.
+
 **Do I need the watch?**
 No. The phone app does everything except heart rate.
 

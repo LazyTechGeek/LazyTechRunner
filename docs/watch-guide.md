@@ -2,6 +2,8 @@
 
 Once the watch has your routes and programmes, you can leave the phone at home.
 
+> **Which watch?** Lazy Tech Runner was built and tested on a Samsung Galaxy Watch 6. It should run on other Wear OS 3 or newer watches, but those haven't been tested. The watch's own settings menus are described as Samsung shows them, so names and places may differ on a Pixel Watch or another make. Nothing in the app needs a bezel: every action has an on-screen button.
+
 ## Home
 
 The watch opens to four choices: **Run**, **Race**, **Reports** and **Settings**.
@@ -26,9 +28,11 @@ For sound, pair your earphones with the watch. The voice talks over music playin
 
 ## During a run
 
-- **Tap the screen** to show **Pause** and **Stop**. They hide again after a few seconds.
-- **Turn the bezel** to change the view. On a watch with a touch bezel, slide your finger round the edge.
-- The 🌙 / ☀️ button in the controls switches night and day map colours.
+- **Tap the screen** to show the controls. They hide again after a few seconds.
+  - **Pause** and **Stop** at the bottom.
+  - 🌙 / ☀️ switches night and day map colours.
+  - The **view button** on the right edge moves to the next view.
+- If your watch has a bezel or a crown, turning it changes the view too. On a touch bezel, slide your finger round the edge.
 
 ### Views on a route
 
