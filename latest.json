@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 81,
-  "versionName": "1.81",
-  "notes": "Watch: a view button in the run controls, for watches with no bezel",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.81/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.81/LazyTechRunner-watch.apk"
+  "versionCode": 82,
+  "versionName": "1.82",
+  "notes": "Route editing keeps the exact walk: Fix a bit, Snap a bit, blue section highlight, reversible whole-route snap",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.82/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.82/LazyTechRunner-watch.apk"
 }
