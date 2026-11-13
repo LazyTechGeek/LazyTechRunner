@@ -37,6 +37,12 @@ Tap a link to download the newest version straight away:
 - 📱 **[LazyTechRunner-phone.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-phone.apk)** goes on your phone.
 - ⌚ **[LazyTechRunner-watch.apk](https://github.com/LazyTechGeek/LazyTechRunner/releases/latest/download/LazyTechRunner-watch.apk)** goes on your watch.
 
+> **Before you install.** This app isn't in the Play Store, so Android treats it as coming from an unknown source.
+> - **Phone:** Android asks you to allow your browser to install apps, and Play Protect may show a warning. Both are normal for apps from outside the store. You don't need developer mode on the phone.
+> - **Watch:** you need to switch on developer mode and wireless debugging, then send the app from a computer. You only do this once.
+>
+> The [install guide](docs/install.md) takes you through both, one step at a time. Only download the app from this page.
+
 Older versions, and notes on what changed in each one, are on the [Releases page](https://github.com/LazyTechGeek/LazyTechRunner/releases).
 
 ## Guides
