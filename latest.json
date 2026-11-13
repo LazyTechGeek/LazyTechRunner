@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 80,
-  "versionName": "1.80",
-  "notes": "Friendlier split announcements: sentence openers (Well done, you've covered...)",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.80/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.80/LazyTechRunner-watch.apk"
+  "versionCode": 81,
+  "versionName": "1.81",
+  "notes": "Watch: a view button in the run controls, for watches with no bezel",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.81/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.81/LazyTechRunner-watch.apk"
 }
