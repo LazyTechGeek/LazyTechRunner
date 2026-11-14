@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 82,
-  "versionName": "1.82",
-  "notes": "Route editing keeps the exact walk: Fix a bit, Snap a bit, blue section highlight, reversible whole-route snap",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.82/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.82/LazyTechRunner-watch.apk"
+  "versionCode": 84,
+  "versionName": "1.84",
+  "notes": "Section select: look for the later pass at least a metre after the first tap",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.84/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.84/LazyTechRunner-watch.apk"
 }
