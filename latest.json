@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 84,
-  "versionName": "1.84",
-  "notes": "Section select: look for the later pass at least a metre after the first tap",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.84/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.84/LazyTechRunner-watch.apk"
+  "versionCode": 85,
+  "versionName": "1.85",
+  "notes": "Phone: developer mode and Sound test page (play every voice clip, with its wording)",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.85/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.85/LazyTechRunner-watch.apk"
 }
