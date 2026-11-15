@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 87,
-  "versionName": "1.87",
-  "notes": "Phone home: activity summary card with tap-to-change period, replacing Last run",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.87/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.87/LazyTechRunner-watch.apk"
+  "versionCode": 88,
+  "versionName": "1.88",
+  "notes": "Phone: drop stray folder from activity titles; route page top back bar, name saves on Done/back",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.88/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.88/LazyTechRunner-watch.apk"
 }
