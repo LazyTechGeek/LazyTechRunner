@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 86,
-  "versionName": "1.86",
-  "notes": "Phone: rename Routes to Edit routes, add Start run on this route",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.86/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.86/LazyTechRunner-watch.apk"
+  "versionCode": 87,
+  "versionName": "1.87",
+  "notes": "Phone home: activity summary card with tap-to-change period, replacing Last run",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.87/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.87/LazyTechRunner-watch.apk"
 }
