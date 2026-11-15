@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 88,
-  "versionName": "1.88",
-  "notes": "Phone: drop stray folder from activity titles; route page top back bar, name saves on Done/back",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.88/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.88/LazyTechRunner-watch.apk"
+  "versionCode": 89,
+  "versionName": "1.89",
+  "notes": "Phone home: Your activity card redesign (pills, headline distance, daily bars)",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.89/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.89/LazyTechRunner-watch.apk"
 }
