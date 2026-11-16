@@ -29,7 +29,7 @@ The app is free. If it gets you moving and you'd like to say thanks, you can [bu
 - **Follow a route.** Plan one on the phone's map, then get spoken turn directions and a live map on your wrist.
 - **Run/walk programmes.** A nine-week beginner plan is built in, and you can make your own.
 - **Race yourself.** Beat your best time on a route, or chase a steady pacer.
-- **A real voice.** Pre-recorded prompts that talk over your music: turns, distance to go, halfway, well done.
+- **AI voice coaching.** The app includes pre-generated AI voiceovers for directions, milestones and encouragement, so it sounds like a real coach talking you through each activity. They play over your music.
 - **Maps that work without signal.** Save map areas to the watch before you leave.
 - **Reports.** Weekly and monthly totals, steps, calories, and whether each outing was a walk, jog or run.
 - **Phone, watch, or both.** The phone app works on its own. The watch works on its own once set up.

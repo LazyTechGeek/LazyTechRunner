@@ -1,6 +1,6 @@
 # Voice prompts
 
-Lazy Tech Runner uses recorded clips, not a robot voice. It joins short clips together into sentences, so it can say any distance or time.
+The app includes pre-generated AI voiceovers for directions, milestones and encouragement, so it sounds like a real coach talking you through each activity. Short clips are joined into sentences, so it can say any distance or time.
 
 ## What it says
 
@@ -18,7 +18,7 @@ Lazy Tech Runner uses recorded clips, not a robot voice. It joins short clips to
 
 ## Changing what it says
 
-In **Settings → Voice** you can switch the voice off, choose how often milestones are called, and turn off gentle bends and checkpoints if you find it too chatty.
+In **Settings → Voice** you can switch the voice off, choose how often milestones are called, have splits every quarter mile or every 10, 15, 20 or 30 minutes, and turn off gentle bends and checkpoints if you find it too chatty.
 
 ## Music
 
