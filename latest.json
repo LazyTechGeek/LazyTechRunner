@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 89,
-  "versionName": "1.89",
-  "notes": "Phone home: Your activity card redesign (pills, headline distance, daily bars)",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.89/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.89/LazyTechRunner-watch.apk"
+  "versionCode": 90,
+  "versionName": "1.90",
+  "notes": "Voice: joined-up 'what's left' lines, time-based splits setting, new clips listed",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.90/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.90/LazyTechRunner-watch.apk"
 }
