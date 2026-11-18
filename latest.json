@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 95,
-  "versionName": "1.95",
-  "notes": "Add files via upload",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.95/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.95/LazyTechRunner-watch.apk"
+  "versionCode": 96,
+  "versionName": "1.96",
+  "notes": "Voice: trim and list word_and_three_quarters_miles",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.96/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.96/LazyTechRunner-watch.apk"
 }
