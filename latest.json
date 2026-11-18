@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 94,
-  "versionName": "1.94",
-  "notes": "Summary card: fall back to This week when nothing is switched on",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.94/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.94/LazyTechRunner-watch.apk"
+  "versionCode": 95,
+  "versionName": "1.95",
+  "notes": "Add files via upload",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.95/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.95/LazyTechRunner-watch.apk"
 }
