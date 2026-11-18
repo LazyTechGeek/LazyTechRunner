@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 98,
-  "versionName": "1.98",
-  "notes": "Trends: fix smart cast on sinceFirstMs",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.98/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.98/LazyTechRunner-watch.apk"
+  "versionCode": 99,
+  "versionName": "1.99",
+  "notes": "Phone: goals, optional body fat, AI integration with your own API key (Summarise, Edit prompt, Copy prompt)",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.99/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.99/LazyTechRunner-watch.apk"
 }
