@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 99,
-  "versionName": "1.99",
-  "notes": "Phone: goals, optional body fat, AI integration with your own API key (Summarise, Edit prompt, Copy prompt)",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.99/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.99/LazyTechRunner-watch.apk"
+  "versionCode": 100,
+  "versionName": "1.100",
+  "notes": "AI: fix empty summaries, answer length and token limit settings, reveal key; keep build artifacts 1 day",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.100/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.100/LazyTechRunner-watch.apk"
 }
