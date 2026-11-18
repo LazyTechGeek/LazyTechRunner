@@ -71,6 +71,24 @@ Tap an outing to see it on a map, with its pace. From there you can:
 - See **Turn timing**: how early or late each spoken turn was.
 - **Delete** it. It is removed from the watch too.
 
+### Weight and trends
+
+The card at the top of Reports graphs your weight from the weigh-ins you enter in **Settings → Profile**.
+
+- The line stays level between weigh-ins, with a dot for each one. A flat stretch with no dots means you didn't weigh in.
+- Choose 7, 30, 60 or 90 days, or 1 year. It shows the change in pounds or kg and as a percentage.
+- Set a **Goal** on your profile (lose weight, gain weight, build muscle, lose fat and keep muscle, or stay the same). The change shows green when it's going your way and amber when it isn't.
+- Body fat is optional. If you enter a body fat % with a weigh-in, you can also graph body fat, lean mass and fat mass.
+- **Copy prompt** copies your goal, weigh-ins and daily activity as text, ready to paste into any AI chat. **Edit prompt** changes the question it asks.
+
+### AI integration (optional)
+
+In **Settings → AI integration** you can add your own Claude or OpenAI API key. You then get a **Summarise** button on the Weight and trends card, and the summary appears in the app.
+
+- Your provider charges your own account a small amount for each summary.
+- The key is stored encrypted on your phone only.
+- Without a key, the app sends nothing anywhere, and Copy prompt still works.
+
 ## Settings
 
 | Page | What's in it |
