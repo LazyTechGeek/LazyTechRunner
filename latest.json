@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 103,
-  "versionName": "1.103",
-  "notes": "Voice: joined turn warnings and reworded milestones (batch 3)",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.103/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.103/LazyTechRunner-watch.apk"
+  "versionCode": 105,
+  "versionName": "1.105",
+  "notes": "Build: stop uploading the APK artifact (Actions storage quota full)",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.105/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.105/LazyTechRunner-watch.apk"
 }
