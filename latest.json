@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 108,
-  "versionName": "1.108",
-  "notes": "Reports: local summary by text-to-speech in sections, tidier AI format",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.108/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.108/LazyTechRunner-watch.apk"
+  "versionCode": 109,
+  "versionName": "1.109",
+  "notes": "Local summary: show only, Read aloud and Stop buttons like the AI one",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.109/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.109/LazyTechRunner-watch.apk"
 }
