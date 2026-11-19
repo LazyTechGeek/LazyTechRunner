@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 107,
-  "versionName": "1.107",
-  "notes": "Spoken text: turn inline 'Heading:' into a sentence",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.107/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.107/LazyTechRunner-watch.apk"
+  "versionCode": 108,
+  "versionName": "1.108",
+  "notes": "Reports: local summary by text-to-speech in sections, tidier AI format",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.108/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.108/LazyTechRunner-watch.apk"
 }
