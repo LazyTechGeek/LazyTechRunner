@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 109,
-  "versionName": "1.109",
-  "notes": "Local summary: show only, Read aloud and Stop buttons like the AI one",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.109/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.109/LazyTechRunner-watch.apk"
+  "versionCode": 110,
+  "versionName": "1.110",
+  "notes": "Home: Full week / So far switch replaces the bar per day, show ahead",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.110/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.110/LazyTechRunner-watch.apk"
 }
