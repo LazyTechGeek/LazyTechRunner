@@ -76,6 +76,7 @@ Tap an outing to see it on a map, with its pace. From there you can:
 The card at the top of Reports graphs your weight from the weigh-ins you enter in **Settings → Profile**.
 
 - The line stays level between weigh-ins, with a dot for each one. A flat stretch with no dots means you didn't weigh in.
+- Tap a dot, or slide your finger along the graph, to see that weigh-in. The big weight turns blue and shows its date. Tap anywhere else on the card to go back to today.
 - Choose 7, 30, 60 or 90 days, or 1 year. It shows the change in pounds or kg and as a percentage.
 - Set a **Goal** on your profile (lose weight, gain weight, build muscle, lose fat and keep muscle, or stay the same). The change shows green when it's going your way and amber when it isn't.
 - Body fat is optional. If you enter a body fat % with a weigh-in, you can also graph body fat, lean mass and fat mass.
@@ -83,7 +84,7 @@ The card at the top of Reports graphs your weight from the weigh-ins you enter i
 
 ### AI integration (optional)
 
-In **Settings → AI integration** you can add your own Claude or OpenAI API key. You then get a **Summarise** button on the Weight and trends card, and the summary appears in the app.
+In **Settings → AI integration** you can add your own Claude or OpenAI API key. You then get an **AI summary** button on the Weight and trends card. The summary appears in the app, and **Read aloud** reads it out. There's also a free **Local summary**, worked out on your phone with nothing sent anywhere.
 
 - Your provider charges your own account a small amount for each summary.
 - The key is stored encrypted on your phone only.
