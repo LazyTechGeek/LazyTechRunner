@@ -1,8 +1,8 @@
 {
   "app": "lazy-tech-runner",
-  "versionCode": 110,
-  "versionName": "1.110",
-  "notes": "Home: Full week / So far switch replaces the bar per day, show ahead",
-  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.110/LazyTechRunner-phone.apk",
-  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.110/LazyTechRunner-watch.apk"
+  "versionCode": 111,
+  "versionName": "1.111",
+  "notes": "Weight graph: tap or slide to see an earlier entry in the headline",
+  "phoneApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.111/LazyTechRunner-phone.apk",
+  "watchApk": "https://github.com/LazyTechGeek/LazyTechRunner/releases/download/v1.111/LazyTechRunner-watch.apk"
 }
